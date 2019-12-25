@@ -130,7 +130,8 @@ The PostgreSQL schema is as follows:
              /home/abbas/Projects/pgconf_2020/didisoft/Library/pgplib-3.2.1.jar   
              com.edb.cmea.App read-messages
   
-  We are using trial version of DidiSoft PGP Library for Java for Key generation it is not provided as a maven repo.  
+  We are using trial version of DidiSoft PGP Library for Java for Key generation.  
+  The rial version is not provided as a maven repo.  
   Instead the pom.xml file adds dependency to the local file system.  
   Before building make sure that the file system paths given in the dependency are correct.  
 
