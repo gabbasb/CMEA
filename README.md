@@ -131,7 +131,7 @@ The PostgreSQL schema is as follows:
              com.edb.cmea.App read-messages
   
   We are using trial version of DidiSoft PGP Library for Java for Key generation.  
-  The rial version is not provided as a maven repo.  
+  The trial version is not provided as a maven repo.  
   Instead the pom.xml file adds dependency to the local file system.  
   Before building make sure that the file system paths given in the dependency are correct.  
 
