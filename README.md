@@ -1,5 +1,5 @@
 # CMEA
-Confidential message exchange application in Java using pgcrypto
+Confidential message exchange application (CMEA) in Java using pgcrypto
 This application serves as a sample of a Java application that uses pgcrypto for encryption in PostgreSQL.  
 The messages are stored encrypted in PostgreSQL and the intended recipient can decrypt and read them.  
 The application uses symmetric as well as asymmetric encryption.  
